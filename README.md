@@ -7,7 +7,7 @@
 Porjeto construído no evento Next Level Week da Rocketseat.
 
 [Clique aqui para acessar:]
-{https://smarcuslemos.github.io/project}
+{https://smarcuslemos.github.io/project/}
 
 ## Tecnologias
 
